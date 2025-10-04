@@ -1,3 +1,6 @@
 [submodule "ecommerce_shared_db"]
 	path = ecommerce_shared_db
 	url = git@github.com:muratcezan/ecommerce_shared_db.git
+[submodule "ecommerce_admin_user"]
+	path = ecommerce_admin_user
+	url = git@github.com:muratcezan/ecommerce_admin_user.git
