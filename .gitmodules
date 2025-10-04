@@ -4,3 +4,6 @@
 [submodule "ecommerce_admin_user"]
 	path = ecommerce_admin_user
 	url = git@github.com:muratcezan/ecommerce_admin_user.git
+[submodule "ecommerce_email"]
+	path = ecommerce_email
+	url = git@github.com:muratcezan/ecommerce_email.git
