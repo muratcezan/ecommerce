@@ -7,3 +7,6 @@
 [submodule "ecommerce_email"]
 	path = ecommerce_email
 	url = git@github.com:muratcezan/ecommerce_email.git
+[submodule "ecommerce_image_upload_service"]
+	path = ecommerce_image_upload_service
+	url = git@github.com:muratcezan/ecommerce_image_upload_service.git
